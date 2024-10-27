@@ -15,3 +15,6 @@ These specialized models allow for precise risk identification, making our predi
 Our system enhances the effectiveness of predictions by integrating real-time satellite data from Google Earth Engine (GEE). GEE provides critical environmental data, which allows us to track the disaster risks.The integration of historical data with real-time environmental monitoring enables our models to dynamically adjust risk assessments based on the most current conditions, enhancing both accuracy and responsiveness.
 # Alert System: Prompt and Accessible Notifications
 A critical feature of our system is its alert mechanism, designed to promptly notify users of impending threats. Notifications sent directly to users’ devices, ensuring timely warnings, even without internet connectivity.
+
+## WORKFLOW: 
+![WhatsApp Image 2024-10-27 at 10 37 55_e0e482bc](https://github.com/user-attachments/assets/0b350ff4-4647-41e9-a853-fa416ef67cd2)
