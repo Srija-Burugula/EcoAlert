@@ -18,3 +18,6 @@ A critical feature of our system is its alert mechanism, designed to promptly no
 
 ## WORKFLOW: 
 ![WhatsApp Image 2024-10-27 at 10 37 55_e0e482bc](https://github.com/user-attachments/assets/0b350ff4-4647-41e9-a853-fa416ef67cd2)
+
+## Presentation: 
+https://drive.google.com/file/d/1JtG6GIImYAPH-8q_G0zeYL3gIpDIZ-sU/view?usp=sharing
